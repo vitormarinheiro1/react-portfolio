@@ -54,9 +54,9 @@ export default function Contact() {
       icon: <HiOutlineEnvelope className="h-10 w-10" />,
     },
     {
-      name: "São José dos Campos",
-      description: "Centro, 123",
-      link: "https://goo.gl/maps/4yacADQtLB8jz8zn9?coh=178573&entry=tt",
+      name: "Osasco - SP",
+      description: "Cidade das flores",
+      link: "https://www.google.com/maps/place/Cidade+das+Flores,+Osasco+-+SP,+02675-031/@-23.1895062,-45.8630127,12z/data=!4m6!3m5!1s0x94ceffc9c724e289:0x8ebb60e53643ef38!8m2!3d-23.5373687!4d-46.8071244!16s%2Fg%2F12116wz9?entry=ttu",
       icon: <HiOutlineMapPin className="h-10 w-10" />,
     },
   ]
