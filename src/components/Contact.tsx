@@ -43,14 +43,14 @@ export default function Contact() {
   const contacts = [
     {
       name: "WhatsApp",
-      description: "+55 12 9.999-9999",
-      link: "https://wa.me/5512982041640?text=Olá...",
+      description: "+55(11) 97317-9659",
+      link: "https://wa.me/5511973179659?text=Olá...",
       icon: <FaWhatsapp className="h-10 w-10" />,
     },
     {
       name: "Email",
-      description: "joao-test@testemail.com",
-      link: "mailto:joao-test@testemail.com?subject=Olá...",
+      description: "vitormarinheiro9@gmail.com",
+      link: "mailto:vitormarinheiro9@gmail.com?subject=Olá...",
       icon: <HiOutlineEnvelope className="h-10 w-10" />,
     },
     {
