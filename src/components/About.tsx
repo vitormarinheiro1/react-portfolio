@@ -7,7 +7,8 @@ export function About() {
                     <span className="font-handwriting text-4xl">Mim</span>
                 </h2>
                 <p className="relative text-sm text-gray-600">
-                    Tenho mais de 10 projetos executados e gostaria que o próximo seja o seu.
+                    Estudante de programação, cursando bacharelado em ciência da computação.
+                    Tenho alguns projetos em andamentos que posteriormente irei atualizando aqui neste portfólio.
                 </p>
                 <div className="absolute left-1/2 top-3 z-0 h-10 w-10 rounded-lg bg-blue-100/40" />
             </div>
@@ -81,7 +82,7 @@ export function About() {
                         </table>
 
                     </div>
-                    <div className="absolute -left-2 -top-4 h-24 w-20 rounded-lg bg-gray-600 bg-[url(https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1480&q=80)] bg-cover bg-center md:-left-12 md:-top12 md:h-72 md:w-56"></div>
+                    <div className="absolute -left-2 -top-4 h-24 w-20 rounded-lg bg-gray-600 bg-[url(../public/images/me.jpeg)] bg-cover bg-center md:-left-12 md:-top12 md:h-72 md:w-56"></div>
                 </div>
             </div>
         </section>

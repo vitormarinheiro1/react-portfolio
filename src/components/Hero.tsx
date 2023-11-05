@@ -17,9 +17,9 @@ export function Hero() {
                     <p className="text-gray-400 my-6 text-center md:text-left">Construindo Experiências Incríveis com React: Desenvolvedor Front-End Transformando Visões em Realidade</p>
 
                     <div className="flex items-center gap-2 justify-center md:justify-start">
-                        <a href="#" className="underline font-bold text-white">Fale Comigo</a>
+                        <a href="https://wa.me/5511973179659?text=Olá..." className="underline font-bold text-white">Fale Comigo</a>
                         <span className="italic text-gray-500">ou</span>
-                        <a href="#" className="button text-gray-600 hover:text-gray-900 flex items-center gap-2">
+                        <a href="../public/images/CurriculoVitorMarinheiro.pdf" download="Currículo Vitor Marinheiro" className="button text-gray-600 hover:text-gray-900 flex items-center gap-2">
                             <HiDownload />
                             Baixe meu CV
                         </a>
